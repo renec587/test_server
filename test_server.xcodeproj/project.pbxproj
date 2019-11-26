@@ -38,6 +38,7 @@
 		1437D2CD238CB1AF008CB531 /* server.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = server.c; sourceTree = "<group>"; };
 		1437D2CE238CB1AF008CB531 /* server.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = server.h; sourceTree = "<group>"; };
 		1437D2CF238CB1AF008CB531 /* Makefile */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.make; path = Makefile; sourceTree = "<group>"; };
+		1437D2D5238CE023008CB531 /* Jenkinsfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Jenkinsfile; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +64,7 @@
 				1437D2CB238CB1AF008CB531 /* routines.c */,
 				1437D2CC238CB1AF008CB531 /* routines.h */,
 				1437D2CD238CB1AF008CB531 /* server.c */,
+				1437D2D5238CE023008CB531 /* Jenkinsfile */,
 				1437D2CE238CB1AF008CB531 /* server.h */,
 				1437D2BD238CB17A008CB531 /* Products */,
 			);

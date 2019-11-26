@@ -3,7 +3,7 @@
 //
 #include "server.h"
 
-int numServers = 2;
+int numServers = 1;
 
 int main(int argc,char** argv) {
 	int clientSock = 0,	numReady,numClients,full,serverSock;
