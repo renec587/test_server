@@ -12,7 +12,7 @@ stage('Build image') {
 /* This builds the actual image; synonymous to
 * docker build on the command line */
 
-app = docker.build("renec587/test_server")
+app = docker.build("172.17.0.2:5000/test_server")
 }
 
 stage('Test image') {
